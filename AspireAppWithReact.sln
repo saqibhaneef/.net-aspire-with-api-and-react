@@ -2,9 +2,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireAppWithReact.AppHost", "AspireAppWithReact.AppHost\AspireAppWithReact.AppHost.csproj", "{62C99887-DA85-4E96-8BD3-72C0A6E6B3A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireAppWithReact.AppHost", "AspireAppWithReact.AppHost\AspireAppWithReact.AppHost.csproj", "{62C99887-DA85-4E96-8BD3-72C0A6E6B3A4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireAppWithReact.ServiceDefaults", "AspireAppWithReact.ServiceDefaults\AspireAppWithReact.ServiceDefaults.csproj", "{EFA426E7-7C76-4204-B330-7CDE1D4DD63F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireAppWithReact.Api", "AspireAppWithReact.Api\AspireAppWithReact.Api.csproj", "{7A4524F6-3C50-415E-9B55-CBD79FCCFA4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{EFA426E7-7C76-4204-B330-7CDE1D4DD63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA426E7-7C76-4204-B330-7CDE1D4DD63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA426E7-7C76-4204-B330-7CDE1D4DD63F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4524F6-3C50-415E-9B55-CBD79FCCFA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4524F6-3C50-415E-9B55-CBD79FCCFA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4524F6-3C50-415E-9B55-CBD79FCCFA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4524F6-3C50-415E-9B55-CBD79FCCFA4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

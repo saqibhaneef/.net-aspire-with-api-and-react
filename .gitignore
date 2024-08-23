@@ -7,3 +7,5 @@
 /AspireAppWithReact.AppHost/bin
 /AspireAppWithReact.ServiceDefaults/obj
 /AspireAppWithReact.ServiceDefaults/bin
+/AspireAppWithReact.Api/obj
+bin
