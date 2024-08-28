@@ -9,3 +9,5 @@
 /AspireAppWithReact.ServiceDefaults/bin
 /AspireAppWithReact.Api/obj
 bin
+/aspireappwithreact.web/obj
+/obj
