@@ -24,8 +24,8 @@
     },
     "react": {
       "type": "dockerfile.v0",
-      "path": "../AspireAppWithReact.Web/Dockerfile.file",
-      "context": "../AspireAppWithReact.Web/",
+      "path": "../AspireAppWithReact.Web/Dockerfile",
+      "context": "../AspireAppWithReact.Web",
       "env": {
         "NODE_ENV": "production",
         "REACT_APP_WEATHER_API_HTTP": "{weatherapi.bindings.http.url}",

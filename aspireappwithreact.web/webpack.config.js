@@ -10,8 +10,8 @@ module.exports = (env) => {
         {
           context: ["/api"],
           target:
-              process.env.REACT_APP_WEATHER_API_HTTP ||
-              process.env.REACT_APP_WEATHER_API_HTTPS,
+            process.env.services__weatherapi__https__0 ||
+            process.env.services__weatherapi__http__0,
           pathRewrite: { "^/api": "" },
           secure: false,
         },
